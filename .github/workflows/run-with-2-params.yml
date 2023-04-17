@@ -1,4 +1,4 @@
-name: call-a-workflow-with-params
+name: call-a-workflow-with-2-params
 on: [workflow_dispatch]
 jobs:
   call-a-workflow-with-params:
